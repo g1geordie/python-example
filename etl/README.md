@@ -15,8 +15,19 @@
 0. 排序出前十名的類別  喜歡 和 不喜歡的比例 擁有最大的變異數
 
 ### ETL Pandas 
-設定 你下載的dataset 路徑
+#####Python version : 3.8.6
+ 
+####設定 你下載的dataset 路徑
 
-        DATA_PATH="./yt/" 
+    DATA_PATH="./yt/" 
+    
+    the path have files:
+    ./yt/CA_category_id.json
+    ./yt/JP_category_id.json
+                .
+                .
+
+#####依賴檔
+    ETL_pyspark_requirements.txt
 
 執行jupyter 
