@@ -15,7 +15,7 @@
 0. 排序出前十名的類別  喜歡 和 不喜歡的比例 擁有最大的變異數
 
 ### ETL Pandas 
-#####Python version : 3.8.6
+#####Python version : 3.8.5
  
 ####設定 你下載的dataset 路徑
 
