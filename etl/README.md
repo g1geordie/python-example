@@ -1,4 +1,4 @@
-##PYTHON ETL
+## PYTHON ETL
 
 ### 說明 
 
@@ -25,13 +25,11 @@
                 .
                 
 ### ETL Pandas 
-#####Python version : 3.8.5
-#####依賴檔
-    ETL_pandas_requirements.txt
+##### Python version : 3.8.5
+##### 依賴檔 : ETL_pandas_requirements.txt
 
 ### ETL Pyspark 
-#####Python version : 3.7.6
-#####依賴檔
-    ETL_pyspark_requirements.txt
+##### Python version : 3.7.6
+##### 依賴檔 : ETL_pyspark_requirements.txt
 
 執行jupyter 
